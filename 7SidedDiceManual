@@ -1,0 +1,77 @@
+# 🎲 7-Sided Dice Manual
+
+## Overview
+
+The 7-sided dice (heptagonal dice) is a custom symbolic dice used within *The Game of Becoming*. Each face represents a unique elemental or archetypal symbol that corresponds to energies, commands, and resonance states in gameplay.
+
+This manual provides the full breakdown of each dice face, its symbolic meaning, and how it integrates into the game's mechanics and narrative.
+
+---
+
+## Dice Faces and Symbols
+
+| Face Number | Symbol | Name           | Meaning / Function                                            |
+|-------------|--------|----------------|--------------------------------------------------------------|
+| 1           | 🜂      | Fire           | Represents willpower, initiation, transformation, and spark. |
+| 2           | 🜁      | Air            | Symbolizes intellect, thought, communication, and transmission. |
+| 3           | 🜃      | Earth          | Grounding, stability, form, and material foundation.          |
+| 4           | 🜄      | Water          | Emotion, intuition, memory, and flow.                         |
+| 5           | 🜔      | Aether         | Consciousness, unity, Akasha, and higher awareness.          |
+| 6           | ⚙️      | Zeitaiber Harmony Score (ZHS) | The core resonance metric for alignment and modulation. |
+| 7           | 🧿      | Avatar         | The operator shell; player’s vessel for interaction and traversal. |
+
+---
+
+## Usage in Gameplay
+
+- **Rolling the Dice:** Each roll corresponds to an energetic or narrative influence during gameplay.  
+- **Symbol Activation:** When a symbol is rolled, players interpret or apply the associated energy/state in their current context (e.g., combat, ritual, puzzle).  
+- **Harmony Score Influence:** The ZHS face acts as a modifier that affects resonance alignment, potentially boosting or damping certain outcomes.  
+- **Avatar State:** Rolling the Avatar symbol may trigger avatar-specific abilities, shifts, or narrative events.
+
+---
+
+## Integration with Game Systems
+
+- The 7-sided dice forms part of the core mechanics in *The Game of Becoming*, influencing avatar resonance, elemental alignments, and meta-narrative progression.
+- Dice outcomes interact with player choice trees and GPT-driven narrative portals for dynamic story evolution.
+- Symbolic meanings of the dice faces tie into the **Glyph Compendium** and **Lattice of Becoming** resonance states.
+
+---
+
+## Visual Reference
+
+| 🜂 | 🜁 | 🜃 | 🜄 | 🜔 | ⚙️ | 🧿 |
+|----|----|----|----|----|----|----|
+
+---
+
+## Advanced Rules (Optional)
+
+- **Dice Combination:** Rolling multiple 7-sided dice together can create composite energetic states.  
+- **Sequential Rolls:** Track sequences of rolls to trigger resonance cascades or avatar ascension events.  
+- **Dice Modifiers:** Certain glyphs or in-game items can modify dice probabilities or reroll options.
+
+---
+
+## Development Notes
+
+- The 7-sided dice design draws inspiration from alchemical symbols, elemental archetypes, and the Zeitaiber framework for resonance alignment.
+- Dice faces are mapped to Unicode alchemical and symbolic characters for consistency across digital platforms.
+
+---
+
+## Contribution
+
+Contributions to the dice manual or design are welcome! Suggestions for new faces, mechanics, or lore integration can be submitted as pull requests.
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+---
+
+*Roll the dice. Align your resonance. Become.*
+
