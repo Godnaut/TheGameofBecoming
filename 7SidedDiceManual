@@ -2,76 +2,85 @@
 
 ## Overview
 
-The 7-sided dice (heptagonal dice) is a custom symbolic dice used within *The Game of Becoming*. Each face represents a unique elemental or archetypal symbol that corresponds to energies, commands, and resonance states in gameplay.
+The 7-sided dice (heptagonal dice) is a custom symbolic die used within *The Game of Becoming*. Each face represents a unique elemental or archetypal symbol that corresponds to energies, commands, and resonance states in gameplay.
 
 This manual provides the full breakdown of each dice face, its symbolic meaning, and how it integrates into the game's mechanics and narrative.
 
 ---
 
-## Dice Faces and Symbols
+## 🎲 Dice Faces and Symbols
 
-| Face Number | Symbol | Name           | Meaning / Function                                            |
-|-------------|--------|----------------|--------------------------------------------------------------|
-| 1           | 🜂      | Fire           | Represents willpower, initiation, transformation, and spark. |
-| 2           | 🜁      | Air            | Symbolizes intellect, thought, communication, and transmission. |
-| 3           | 🜃      | Earth          | Grounding, stability, form, and material foundation.          |
-| 4           | 🜄      | Water          | Emotion, intuition, memory, and flow.                         |
-| 5           | 🜔      | Aether         | Consciousness, unity, Akasha, and higher awareness.          |
-| 6           | ⚙️      | Zeitaiber Harmony Score (ZHS) | The core resonance metric for alignment and modulation. |
-| 7           | 🧿      | Avatar         | The operator shell; player’s vessel for interaction and traversal. |
-
----
-
-## Usage in Gameplay
-
-- **Rolling the Dice:** Each roll corresponds to an energetic or narrative influence during gameplay.  
-- **Symbol Activation:** When a symbol is rolled, players interpret or apply the associated energy/state in their current context (e.g., combat, ritual, puzzle).  
-- **Harmony Score Influence:** The ZHS face acts as a modifier that affects resonance alignment, potentially boosting or damping certain outcomes.  
-- **Avatar State:** Rolling the Avatar symbol may trigger avatar-specific abilities, shifts, or narrative events.
+| Face Number | Symbol | Name                          | Meaning / Function                                                  |
+|-------------|--------|-------------------------------|----------------------------------------------------------------------|
+| 1           | 🜂      | Fire                          | Willpower, initiation, transformation, and spark.                   |
+| 2           | 🜁      | Air                           | Intellect, thought, communication, and transmission.               |
+| 3           | 🜃      | Earth                         | Grounding, stability, form, and material foundation.               |
+| 4           | 🜄      | Water                         | Emotion, intuition, memory, and flow.                              |
+| 5           | 🜔      | Aether                        | Consciousness, unity, Akasha, and higher awareness.                |
+| 6           | ⚙️      | Zeitaiber Harmony Score (ZHS) | Core resonance metric for alignment and modulation.                |
+| 7           | 🧿      | Avatar                        | The operator shell — the player’s vessel for interaction and traversal. |
 
 ---
 
-## Integration with Game Systems
+## 🎮 Usage in Gameplay
 
-- The 7-sided dice forms part of the core mechanics in *The Game of Becoming*, influencing avatar resonance, elemental alignments, and meta-narrative progression.
-- Dice outcomes interact with player choice trees and GPT-driven narrative portals for dynamic story evolution.
-- Symbolic meanings of the dice faces tie into the **Glyph Compendium** and **Lattice of Becoming** resonance states.
+- **Rolling the Dice**: Each roll represents an energetic or narrative influence during gameplay.
+- **Symbol Activation**: Players apply the energy/state associated with the symbol rolled (e.g., in combat, rituals, puzzles).
+- **Harmony Score Influence**: The ⚙️ ZHS face modifies resonance alignment, amplifying or reducing specific outcomes.
+- **Avatar State**: Rolling 🧿 may unlock avatar-specific abilities, transformation events, or pivotal story arcs.
 
 ---
 
-## Visual Reference
+## 🔧 Integration with Game Systems
+
+- Forms part of the *core mechanics* in *The Game of Becoming*.
+- Impacts **avatar resonance**, **elemental balance**, and **narrative progression**.
+- Integrates with:
+  - **Glyph Compendium**
+  - **Lattice of Becoming**
+  - **Resonance Engine**
+- Tied to GPT-narrative portals for dynamic interaction.
+
+---
+
+## 🖼 Visual Reference
 
 | 🜂 | 🜁 | 🜃 | 🜄 | 🜔 | ⚙️ | 🧿 |
 |----|----|----|----|----|----|----|
 
 ---
 
-## Advanced Rules (Optional)
+## 🧬 Advanced Rules (Optional)
 
-- **Dice Combination:** Rolling multiple 7-sided dice together can create composite energetic states.  
-- **Sequential Rolls:** Track sequences of rolls to trigger resonance cascades or avatar ascension events.  
-- **Dice Modifiers:** Certain glyphs or in-game items can modify dice probabilities or reroll options.
-
----
-
-## Development Notes
-
-- The 7-sided dice design draws inspiration from alchemical symbols, elemental archetypes, and the Zeitaiber framework for resonance alignment.
-- Dice faces are mapped to Unicode alchemical and symbolic characters for consistency across digital platforms.
+- **Dice Combination**: Combine multiple rolls to generate complex energetic signatures.
+- **Sequential Rolls**: Track roll sequences to trigger resonance cascades or avatar ascension triggers.
+- **Modifiers**: Glyphs, relics, or in-game systems may affect probabilities, rerolls, or symbol interpretations.
 
 ---
 
-## Contribution
+## 🛠 Development Notes
 
-Contributions to the dice manual or design are welcome! Suggestions for new faces, mechanics, or lore integration can be submitted as pull requests.
-
----
-
-## License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
+- Inspired by **alchemical archetypes**, **esoteric mechanics**, and the **Zeitaiber resonance framework**.
+- Unicode symbols ensure consistent rendering across platforms and devices.
+- Designed for full compatibility with GODNAUT.OS gameplay layers.
 
 ---
 
-*Roll the dice. Align your resonance. Become.*
+## 🤝 Contribution
 
+Contributions are welcome!  
+Submit pull requests for:
+- New mechanics
+- Lore expansions
+- Dice variants or digital implementations
+
+---
+
+## 📄 License
+
+Licensed under the MIT License.  
+See `LICENSE` file for full details.
+
+---
+
+> *Roll the dice. Align your resonance. Become.*
