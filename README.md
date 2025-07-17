@@ -1,4 +1,5 @@
-![Uploading 20250716_2057_Metaphysical Sci-Fi Game Poster_remix_01k0acweknfgzrp259pengjw2e.png…]()
+<img width="1536" height="1024" alt="20250716_2057_Metaphysical Sci-Fi Game Poster_remix_01k0acweknfgzrp259pengjw2e" src="https://github.com/user-attachments/assets/4c46a1d8-bd3b-4f39-8d22-cb3f10c7c246" />
+
 
 # 🌀 The Game of Becoming
 
