@@ -66,6 +66,5 @@ This guarantees that *The Game of Becoming* loads with all underlying frameworks
 
 > 🌀 Align. Enter. Become.
 
-For full guidance, refer to our [Quick Start Manual](link-here) and [Dice Compendium](link-here).
 
 — *Game Dev Team*
