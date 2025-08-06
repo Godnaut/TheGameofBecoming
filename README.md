@@ -69,7 +69,7 @@ These represent the foundational currents of gameplay and alignment:
 These glyphs unlock, encode, and influence the resonance pathways of the game.
 
 ---
-![DeltaWorld_Architecture_Map](https://github.com/user-attachments/assets/5ab71eae-1937-4fe3-b259-e72be1a1c0c3)
+
 
 ## 📁 Repository Structure
 
